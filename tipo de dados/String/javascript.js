@@ -1,3 +1,3 @@
 // templates litral ou templates string
 
-console.log('Felipe')
+console.log('Felipe');
